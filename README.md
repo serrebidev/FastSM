@@ -29,7 +29,7 @@ Prebuilt binaries for every commit to `master` are published at the [latest rele
 
 ## Running from source
 
-Python 3.10+ is required. Clone the repo, install dependencies, and run:
+Python 3.11+ is required. Clone the repo, install dependencies, and run:
 
 ```bash
 pip install -r requirements.txt
